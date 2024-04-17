@@ -1,0 +1,6 @@
+print("Data",end="-")
+print("Science",end="-")
+print("Mentorship",end="-")
+print("Program",end="-")
+print("By",end="-")
+print("CampusX")
